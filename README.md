@@ -10,7 +10,7 @@ Repositório para armazenar os arquivos do desafio de Solidity da Fotontech
 - [ ]  Subir no Github, fazer um README
 - [ ]  Fazer o deploy na Vercel e submeter à vaga
 
-## Como iremos solucionamos
+## Como iremos solucionar
 1) Passo 01 - criar o Smart Contract na IDE do REMIX da Ethereum
 2) Passo 02 - fazer o deploy do smart contract na Fantom
 3) Passo 03 - integrar react e solidity com Truffle Box
